@@ -1,0 +1,14 @@
+{
+  "version": "1.2.1",
+  "url": "https://gitee.com/rockes2008/yitang-update/releases/download/v1.2.1/yitang.exe",
+  "urls": [
+    "https://gitee.com/rockes2008/yitang-update/releases/download/v1.2.1/yitang.exe",
+    "https://github.com/rockes2023/yitang-update/releases/download/v1.2.1/yitang.exe"
+  ],
+  "sha256": "f47285a4db90d959797bf0737e5e5550871c8683c837b405520bf1f500428b43",
+  "size": 20328982,
+  "notes": "支持 Gitee/GitHub 双平台远程自动更新；课程状态标记与筛选；扫码续传",
+  "mandatory": false,
+  "published": "2026-11-23 23:01:36",
+  "sig": "_GEpaJpu8hDZ1Hd33ju5mQi7g3me2Bae6XWk02e88om_Caa328ztpq5Bb__-PStR5lLpaxPDxC-zLpZKrK01DQ"
+}
