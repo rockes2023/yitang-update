@@ -1,0 +1,14 @@
+{
+  "version": "1.2.2",
+  "url": "https://gitee.com/rockes2008/yitang-update/releases/download/v1.2.2/yitang.exe",
+  "urls": [
+    "https://gitee.com/rockes2008/yitang-update/releases/download/v1.2.2/yitang.exe",
+    "https://github.com/rockes2023/yitang-update/releases/download/v1.2.2/yitang.exe"
+  ],
+  "sha256": "3810868985a251fd9ced21c7430218a37b5c5855acf3ecb24096f3889afbd657",
+  "size": 20363478,
+  "notes": "v1.2.2：修复飞书文档直链抓取（新版 docx 与老版 docs 均可完整提取正文、图片与格式）；链接失效自动重新发现并切换新地址；下载全程静默运行、不弹任何页面，内存占用大幅下降；扫码窗口保持到你扫码成功；课程列表改为表格并支持多状态筛选、暂停/继续；新增按格式归类与运行日志，出问题可一键查看。",
+  "mandatory": false,
+  "published": "2026-11-24 21:43:14",
+  "sig": "Mwyt2Hhn2vUdXVssqX0pAedsggy03D6b0NNRKrxqO4c2eEbwsl6sbx4nteeSlfNvnnhRUFr9tCtIzNWIuAn2DA"
+}
