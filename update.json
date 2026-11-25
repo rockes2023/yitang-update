@@ -1,0 +1,14 @@
+{
+  "version": "1.2.7",
+  "url": "https://gitee.com/rockes2008/yitang-update/releases/download/v1.2.7/yitang.exe",
+  "urls": [
+    "https://gitee.com/rockes2008/yitang-update/releases/download/v1.2.7/yitang.exe",
+    "https://github.com/rockes2023/yitang-update/releases/download/v1.2.7/yitang.exe"
+  ],
+  "sha256": "7d62a263bd482c95c49d50d4d74f7ef68f1caa68ca5d87044cfca8cd95451d4d",
+  "size": 20387471,
+  "notes": "v1.2.7：修复按格式归类后HTML图片不显示（HTML按课程建子目录并带assets，硬链接零额外占盘）；整理已有文件新增实时进度窗口（百分比/进度条/N-M/当前文件/用时），后台异步不再空等。原课程与下载流程不变。",
+  "mandatory": false,
+  "published": "2026-11-25 22:13:12",
+  "sig": "oBlKnSJOA9TzCt_xNLgQpc5RsZsujWbBCMEeS8HkaPVfyVAp4yGEkKbuknmN1IlmZpDua2Wx5LC6bnCxrz3SCg"
+}
