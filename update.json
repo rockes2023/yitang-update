@@ -1,0 +1,14 @@
+{
+  "version": "1.2.4",
+  "url": "https://gitee.com/rockes2008/yitang-update/releases/download/v1.2.4/yitang.exe",
+  "urls": [
+    "https://gitee.com/rockes2008/yitang-update/releases/download/v1.2.4/yitang.exe",
+    "https://github.com/rockes2023/yitang-update/releases/download/v1.2.4/yitang.exe"
+  ],
+  "sha256": "80d731aff36fc391d3ae6e59610ca88f38a4199954937c27f3390a69451f6dcb",
+  "size": 20380484,
+  "notes": "v1.2.4：修复登录会话丢失与浏览器窗口乱弹（会话持久化+保活+单实例锁）；登录状态一直有效除非主动退出；yitang.top 短链文档支持（预判篇等此前必失败篇目已可下载）；无权限文档2秒准确报错不再空转；新增运行日志自动回传（默认开启可拒绝，Gitee直连+GitHub备用，仅日志与版本信息）。",
+  "mandatory": false,
+  "published": "2026-11-25 12:44:24",
+  "sig": "TgT-6O5g_m-whS83Ew4CfppjunrZCx6vcvxoca7VRIe_2wn4shsgFL9JsNarj4beIiWXOq5yvCzSejAgQpTBDg"
+}
