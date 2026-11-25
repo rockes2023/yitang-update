@@ -1,0 +1,14 @@
+{
+  "version": "1.2.5",
+  "url": "https://gitee.com/rockes2008/yitang-update/releases/download/v1.2.5/yitang.exe",
+  "urls": [
+    "https://gitee.com/rockes2008/yitang-update/releases/download/v1.2.5/yitang.exe",
+    "https://github.com/rockes2023/yitang-update/releases/download/v1.2.5/yitang.exe"
+  ],
+  "sha256": "55523c8d985b9eabf1cd7a1ea774b6b204bdc304bfdac5873ee0b8ed84dc4ec1",
+  "size": 20385838,
+  "notes": "v1.2.5：新增多线程并发下载（每篇独立浏览器标签，默认2线程实测最优，3篇耗时270s→119s提升2.3倍；支持1~4线程可调）；去掉全局bringToFront改每标签focus模拟，避免并行抓取互抢前台；登录重登全局串行+429自动指数退避+随机错峰防止账号/IP风控；含v1.2.4全部修复（会话持久化保活、单实例锁、yitang.top短链、日志回传Gitee直连+GitHub备用）。",
+  "mandatory": false,
+  "published": "2026-11-25 17:26:31",
+  "sig": "SRGwN1OIutEqQVPtXZ3pujfCTHsIgC995Ae0SQz8-Q6bChacZFoZMXqa4anu900_xM-jncKHT8F1iitVl2WEDg"
+}
